@@ -5,7 +5,7 @@ Hi there 👋, I'm ThreeMonth03
 ### Skills
 * Programming Language
   * Advanced: C, C++, Python
-  * Intermediate: Verilog Hspice
+  * Intermediate: Verilog, Hspice
 * Tools
   * Git, Makefile, Docker, Shellscript
 
