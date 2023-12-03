@@ -1,18 +1,21 @@
-### Hi, I'm ThreeMonth03
+Hi there 👋, I'm ThreeMonth03    
+![](https://komarev.com/ghpvc/?username=ThreeMonth03)
+===============
 
-### Education
-* National Yang Ming Chiao Tung University (NYCU)   
-  Computer Science Bachelor  2019 ~ 2023  
-  GPA: 4.24/4.3 Ranking: 1/181   
-* National Yang Ming Chiao Tung University (NYCU)
-  Computer Science and Engineering MASTER 2023 ~ Current
-  
-### Experience
-1. Industrial Technology Research Institute   
-   ELECTRONIC & OPTOELECTRONIC SYSTEM RESEARCH LABORATORIES/INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE  2023/8 ~ Current
+### Skill
+* Programming Language
+  * Advanced: C, C++, Python
+  * Intermediate: Verilog Hspice
+* Tools
+  * Git, Makefile, Docker, Shellscript
 
-2. WorldQuant
-   Research Consultant  2023/10 ~ Current
+### Statistics
 
+<img src="https://github-readme-stats.vercel.app/api?username=ThreeMonth03&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1800" />
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeMonth03&theme=graywhite&count_private=true&langs_count=20&layout=compact&cache_seconds=1800" />
+
+### Contact Me
+* [My Website](https://www.threemonth03.com/)
+* [Linkedin](https://www.linkedin.com/in/chun-shih-chang-8a1410295)
+* [Email](austin20463@gmail.com)
