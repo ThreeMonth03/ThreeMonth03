@@ -2,7 +2,7 @@ Hi there 👋, I'm ThreeMonth03
 ![](https://komarev.com/ghpvc/?username=ThreeMonth03)
 ===============
 
-### Skill
+### Skills
 * Programming Language
   * Advanced: C, C++, Python
   * Intermediate: Verilog Hspice
