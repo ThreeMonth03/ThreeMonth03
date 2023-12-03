@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm ThreeMonth03
 
-<!--
-**ThreeMonth03/ThreeMonth03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+* National Yang Ming Chiao Tung University (NYCU)   
+  Computer Science Bachelor  2019 ~ 2023  
+  GPA: 4.24/4.3 Ranking: 1/181   
+* National Yang Ming Chiao Tung University (NYCU)
+  Computer Science and Engineering MASTER 2023 ~ Current
+  
+### Experience
+1. Industrial Technology Research Institute   
+   ELECTRONIC & OPTOELECTRONIC SYSTEM RESEARCH LABORATORIES/INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE  2023/8 ~ Current
 
-Here are some ideas to get you started:
+2. WorldQuant
+   Research Consultant  2023/10 ~ Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
