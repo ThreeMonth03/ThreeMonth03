@@ -11,9 +11,9 @@ Hi there 👋, I'm ThreeMonth03
 
 ### Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThreeMonth03&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=ThreeMonth03&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeMonth03&theme=graywhite&count_private=true&langs_count=20&layout=compact&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeMonth03&theme=graywhite&count_private=true&langs_count=20&layout=compact&cache_seconds=1" />
 
 ### Contact Me
 * [My Website](https://www.threemonth03.com/)
