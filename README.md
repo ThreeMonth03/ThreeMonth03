@@ -4,7 +4,8 @@ Hi there 👋, I'm ThreeMonth03
 
 ### Skills
 * Programming Language
-  * Intermediate: C, C++, Python, Verilog
+  * Master: Vibe Coding
+  * Intermediate: C, C++, Python
 * Tools
   * Git, Makefile, Docker, Shellscript
 
