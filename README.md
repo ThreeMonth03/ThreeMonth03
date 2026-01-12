@@ -4,10 +4,9 @@ Hi there 👋, I'm ThreeMonth03
 
 ### Skills
 * Programming Language
-  * Master: Vibe Coding
   * Intermediate: C, C++, Python
 * Tools
-  * Git, Makefile, Docker, Shellscript
+  * Git, Cmake, Makefile, Docker, Shellscript
 
 ### Statistics
 
